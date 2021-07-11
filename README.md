@@ -4,5 +4,5 @@
 
 源码来自：
 ```
-[https://github.com/Achrou/goindex-theme-acrou](https://github.com/Achrou/goindex-theme-acrou)
+<a href="https://github.com/Achrou/goindex-theme-acrou" target="_blank">https://github.com/Achrou/goindex-theme-acrou</a>
 ```
