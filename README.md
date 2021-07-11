@@ -3,6 +3,6 @@
 [https://gdwebindex.glitch.me/](https://gdwebindex.glitch.me/)
 
 源码来自：
-```
-<a href="https://github.com/Achrou/goindex-theme-acrou" target="_blank">https://github.com/Achrou/goindex-theme-acrou</a>
-```
+
+[https://github.com/Achrou/goindex-theme-acrou](https://github.com/Achrou/goindex-theme-acrou)
+
